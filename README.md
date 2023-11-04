@@ -29,7 +29,7 @@ This repository also houses all of the code I wrote in Middle and High School to
 For this readme, I used the template generator below:
 
 ## `README.md`:
- - [Readme Template From readme.so](https://readme.so/editor)
+ - [5] K. Oelsner, “The easiest way to create a README,” Readme.so, https://readme.so (accessed Nov. 4, 2023). 
 
 
 ## Authors

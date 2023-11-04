@@ -24,7 +24,12 @@ This repository also houses all of the code I wrote in Middle and High School to
 *   `FingerCounter.py`:
     * [3] Murtaza’s Workshop - Robotics and AI, “Finger counter using hand tracking | computer vision | opencv python 2021,” YouTube, https://www.youtube.com/watch?v=p5Z_GGRCI5s (accessed Nov. 4, 2023). 
 *   `HandTrackingSimple.py` and `HandTrackingSimModule.py` :
-    * [4] Murtaza’s Workshop - Robotics and AI, “Hand tracking 30 fps using CPU | opencv python (2021) | computer vision,” YouTube, https://www.youtube.com/watch?v=NZde8Xt78Iw&amp;t=13s (accessed Nov. 4, 2023). 
+    * [4] Murtaza’s Workshop - Robotics and AI, “Hand tracking 30 fps using CPU | opencv python (2021) | computer vision,” YouTube, https://www.youtube.com/watch?v=NZde8Xt78Iw&amp;t=13s (accessed Nov. 4, 2023).
+
+For this readme, I used the template generator below:
+
+## `README.md`:
+ - [Readme Template From readme.so](https://readme.so/editor)
 
 
 ## Authors
